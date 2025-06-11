@@ -26,12 +26,10 @@ An Android application designed to help Hajj supervisors efficiently manage and 
 ---
 
 ## 📷 Screenshots
-**pilgrims with special excuses**
+### pilgrims with special excuses
 ![Image](https://github.com/user-attachments/assets/f6e1182e-f5d5-4fcb-b040-f78b65d7758e)
-
-**daily supervisor tasks**
+### daily supervisor tasks
 ![Image](https://github.com/user-attachments/assets/d9417bca-e30e-411a-808a-b1aab1f9ddf8)
-
-**nutrition tracking**
+### nutrition tracking
 ![Image](https://github.com/user-attachments/assets/f4212881-8d68-435c-8a87-12b01dff7c57)
 
